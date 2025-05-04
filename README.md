@@ -5,11 +5,8 @@ This project utilizes the National Health and Nutrition Examination Survey (NHAN
 ## Table of Contents
 
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Dataset
@@ -29,20 +26,6 @@ The dataset used in this project is a subset of the NHANES 2013-2014 dataset. Th
 
 - **Target:**
   - `age_group`: Categorical variable indicating if the respondent is an adult (0) or a senior (1)
-
-## Project Structure
-
-```
-.
-├── data
-│   └── nhanes_subset.csv          # Original dataset file
-├── notebooks
-│   └── Classification_Project.ipynb  # Jupyter notebook with the project code
-├── README.md
-└── requirements.txt               # Required Python packages
-```
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new Pull Request.
 
 ## License
 
