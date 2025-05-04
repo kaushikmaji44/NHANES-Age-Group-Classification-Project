@@ -5,8 +5,6 @@ This project utilizes the National Health and Nutrition Examination Survey (NHAN
 ## Table of Contents
 
 - [Dataset](#dataset)
-- [Usage](#usage)
-- [Results](#results)
 - [License](#license)
 
 ## Dataset
